@@ -33,11 +33,9 @@
 - [**ono-tebe-nado**](https://github.com/neverweakness/ono-tebe-nado) — лендинг «Оно тебе надо — аукцион вещей, в которые никто не верил».
 - [**posmotri_v_okno**](https://github.com/neverweakness/posmotri_v_okno) — страница «Посмотри в окно» с интерактивом.
 - [**slozhno-sosredotochitsya**](https://github.com/neverweakness/slozhno-sosredotochitsya) — страница «Сложно сосредоточиться».
-- [**aibolit**](https://github.com/esmeweatherwaxxyz/aibolit) — лендинг круглосуточной ветклиники.
 
 ### JavaScript / TypeScript
 - [**movie-app**](https://github.com/neverweakness/movie-app) — приложение для поиска фильмов (JavaScript, анимации на anime.js).
-- **calculator-html** — калькулятор на чистом HTML/CSS/JS.
 - **TypeScript project** — практика TypeScript.
 
 ### Сборка и инструменты фронтенда
@@ -51,20 +49,6 @@
 ### Боты и автоматизация (в основном приватные)
 - Telegram-бот на `aiogram 3` для генерации карточек товаров: удаление фона, LLM-описание, инфографика.
 - Скрипты на Python/JS для работы с маркетплейсами и API.
-
-## 🚀 Что дальше
-
-- [x] Собственное расширение с реальным применением (VK Music Downloader)
-- [ ] Углубиться в TypeScript и перенести на него свои JS-проекты
-- [ ] Добавить к ключевым проектам скриншоты, демо и подробные README
-- [ ] Расширения для браузера: настройки, всплывающее окно, публикация в магазинах
-
-## 📊 Статистика
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=neverweakness&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neverweakness&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages">
-</p>
 
 ## 📫 Связь
 
