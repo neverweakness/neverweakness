@@ -1,7 +1,7 @@
 <h1 align="center">Привет, я Михаил 👋</h1>
 
 <p align="center">
-  Веб-разработчик: верстка, JavaScript/TypeScript, расширения для браузера и автоматизация.<br>
+  Веб-разработчик: вёрстка, JavaScript/TypeScript, расширения для браузера и автоматизация.<br>
   Делаю проекты от учебных вёрсток до рабочих инструментов.
 </p>
 
@@ -19,37 +19,24 @@
 
 ---
 
-## ⭐ Избранное
+## ⭐ Проекты
 
 | Проект | О чём | Стек |
 | --- | --- | --- |
-| [**VK Music Downloader**](https://github.com/neverweakness/vk-music-downloader) | Расширение для Chromium-браузеров: кнопка скачивания рядом с каждым треком на vk.ru. Расшифровывает ссылки VK, собирает HLS (AES-128) в обычный `.mp3` с тегами и обложкой. Без разрешений и без серверов. | JavaScript, MV3, WebCrypto, HLS/MPEG-TS |
-| [**Mesto**](https://github.com/neverweakness/mesto-project-ff) · [демо](https://neverweakness.github.io/mesto-project-ff/) | Проектная работа: карточки мест, модальные окна, валидация форм и работа с API; сборка через Webpack, деплой на GitHub Pages. | JavaScript (ES-модули), Webpack, Babel, PostCSS |
+| [**VK Music Downloader**](https://github.com/neverweakness/vk-music-downloader) | Расширение для Chromium-браузеров: кнопка скачивания рядом с каждым треком на vk.ru. Расшифровывает ссылки VK, собирает HLS (AES-128) в обычный `.mp3` с тегами и обложкой. Без разрешений и без серверов. | JavaScript, Manifest V3, WebCrypto, HLS / MPEG-TS |
 | [**Frontend History**](https://github.com/neverweakness/frontend-history) · [демо](https://neverweakness.github.io/frontend-history/) | Архив ранних лендингов (2023–2024) с живыми демо и полной историей коммитов: от вёрстки по макету до тем оформления и анимаций. | HTML, CSS, JavaScript |
+| [**netlify-ci**](https://github.com/neverweakness/netlify-ci) | Шаблон сборки статического фронтенда на Gulp: минификация HTML/CSS, PostCSS, автопрефиксы, Stylelint, Prettier, BrowserSync. | Gulp, PostCSS, Stylelint |
 
-## 🗂 Проекты по категориям
+## 🗂 Лендинги из Frontend History
 
-### Вёрстка и лендинги — [Frontend History](https://github.com/neverweakness/frontend-history)
 - [Оно тебе надо](https://neverweakness.github.io/frontend-history/01-ono-tebe-nado/) — лендинг вымышленного аукциона (окт 2023).
 - [Посмотри в окно](https://neverweakness.github.io/frontend-history/02-posmotri-v-okno/) — поиск видео через API (ноя 2023).
 - [Сложно сосредоточиться](https://neverweakness.github.io/frontend-history/03-slozhno-sosredotochitsya/) — три темы оформления, CSS Grid (дек 2023 – фев 2024).
 - [Закрывающий тег](https://neverweakness.github.io/frontend-history/04-zakryvayushchiy-teg/) — ретро-лендинг с анимациями (фев – мар 2024).
 
-### JavaScript / TypeScript
-- [**movie-app**](https://github.com/neverweakness/movie-app) — приложение для поиска фильмов (JavaScript, анимации на anime.js).
-- **TypeScript project** — практика TypeScript.
+## 🤖 Автоматизация
 
-### Сборка и инструменты фронтенда
-- [**assembly-automation**](https://github.com/neverweakness/netlify-ci) — сборка на Gulp: PostCSS, autoprefixer, cssnano, Stylelint, Prettier, BrowserSync.
-- **gulp-pug-starter**, **gulp-scss** — стартовые конфигурации Gulp с Pug и SCSS.
-- **third-project** — эксперименты с Tailwind CSS и Atomizer.
-
-### Расширения браузера
-- [**VK Music Downloader**](https://github.com/neverweakness/vk-music-downloader) — см. выше.
-
-### Боты и автоматизация (в основном приватные)
-- Telegram-бот на `aiogram 3` для генерации карточек товаров: удаление фона, LLM-описание, инфографика.
-- Скрипты на Python/JS для работы с маркетплейсами и API.
+Часть проектов приватная: Telegram-бот на `aiogram 3` для генерации карточек товаров (удаление фона, LLM-описание, инфографика) и скрипты на Python/JS для работы с внешними API.
 
 ## 📫 Связь
 
