@@ -25,14 +25,15 @@
 | --- | --- | --- |
 | [**VK Music Downloader**](https://github.com/neverweakness/vk-music-downloader) | Расширение для Chromium-браузеров: кнопка скачивания рядом с каждым треком на vk.ru. Расшифровывает ссылки VK, собирает HLS (AES-128) в обычный `.mp3` с тегами и обложкой. Без разрешений и без серверов. | JavaScript, MV3, WebCrypto, HLS/MPEG-TS |
 | [**Mesto**](https://github.com/neverweakness/mesto-project-ff) · [демо](https://neverweakness.github.io/mesto-project-ff/) | Проектная работа: карточки мест, модальные окна, валидация форм и работа с API; сборка через Webpack, деплой на GitHub Pages. | JavaScript (ES-модули), Webpack, Babel, PostCSS |
-| [**Закрывающий тег**](https://github.com/neverweakness/zakrivayuschiy-teg-f) | Самый объёмный лендинг с версткой и скриптами. | HTML, CSS, JavaScript |
+| [**Frontend History**](https://github.com/neverweakness/frontend-history) · [демо](https://neverweakness.github.io/frontend-history/) | Архив ранних лендингов (2023–2024) с живыми демо и полной историей коммитов: от вёрстки по макету до тем оформления и анимаций. | HTML, CSS, JavaScript |
 
 ## 🗂 Проекты по категориям
 
-### Вёрстка и лендинги
-- [**ono-tebe-nado**](https://github.com/neverweakness/ono-tebe-nado) — лендинг «Оно тебе надо — аукцион вещей, в которые никто не верил».
-- [**posmotri_v_okno**](https://github.com/neverweakness/posmotri_v_okno) — страница «Посмотри в окно» с интерактивом.
-- [**slozhno-sosredotochitsya**](https://github.com/neverweakness/slozhno-sosredotochitsya) — страница «Сложно сосредоточиться».
+### Вёрстка и лендинги — [Frontend History](https://github.com/neverweakness/frontend-history)
+- [Оно тебе надо](https://neverweakness.github.io/frontend-history/01-ono-tebe-nado/) — лендинг вымышленного аукциона (окт 2023).
+- [Посмотри в окно](https://neverweakness.github.io/frontend-history/02-posmotri-v-okno/) — поиск видео через API (ноя 2023).
+- [Сложно сосредоточиться](https://neverweakness.github.io/frontend-history/03-slozhno-sosredotochitsya/) — три темы оформления, CSS Grid (дек 2023 – фев 2024).
+- [Закрывающий тег](https://neverweakness.github.io/frontend-history/04-zakryvayushchiy-teg/) — ретро-лендинг с анимациями (фев – мар 2024).
 
 ### JavaScript / TypeScript
 - [**movie-app**](https://github.com/neverweakness/movie-app) — приложение для поиска фильмов (JavaScript, анимации на anime.js).
